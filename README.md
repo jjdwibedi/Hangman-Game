@@ -9,3 +9,11 @@ A simple implementation of the classic Hangman game in Python.
 - The game continues until the player either guesses the word correctly or runs out of lives.
 - The player wins if they guess the word correctly before running out of lives.
 - The player loses if they run out of lives before guessing the word correctly.
+
+**Requirements**: Python 3.x
+
+**Installation**
+Clone the repository:git clone https://github.com/your-username/hangman-game.git
+Change to the project directory: cd hangman-game
+Run the game: python hangman.py
+
